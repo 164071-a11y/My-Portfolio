@@ -1,4 +1,4 @@
 # My-Portfolio
-My Portfolio
-history
-about me
+My Portfoli   
+history   
+about me   
